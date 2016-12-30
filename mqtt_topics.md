@@ -63,7 +63,7 @@ Events are send when something changes in the spot resources, and when events ar
 * spots/`id`/disconnected/`spot-serial-number`
   * Spot went offline and does not have an active connection with the brain anymore.
 
-Please note that we also have some low level messages avaialble. We do not advise you to use these because the internal spot protocol may change.
+Please note that we also have some low level messages available. We do not advise you to use these because the internal spot protocol may change.
 
 Presences
 ---------
